@@ -2,4 +2,4 @@
 - 😄 Pronouns: she/her
 - Stuff about me
 
-[LinkedIn] (https://www.linkedin.com/in/katy-boyles/)
+[LinkedIn](https://www.linkedin.com/in/katy-boyles/)
