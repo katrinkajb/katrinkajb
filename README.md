@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74560886/117216173-36cc2880-adb4-11eb-8d28-5f35c71b673c.jpg" alt="pic" width="200"/>
 She/her pronouns<br/>
-I'm a Full Stack Software Engineer with an urge to learn! My background in Product Management and Customer Success means I approach writing code in a comprehensive way, always wanting to understand <italics>why</italics> and the user need. I love humor and any chance I get I incorporate puns into my projects.
+I'm a Full Stack Software Engineer with an urge to learn! My background in Product Management and Customer Success means I approach writing code in a comprehensive way, always wanting to understand <italics>why</italics> and the user need. I love humor and anytime I get a chance I'll incorporate puns into my projects.
 <br/>
 <br/>
 ◍ Languages: JavaScript, HTML, CSS<br/>
