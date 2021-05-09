@@ -20,7 +20,7 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 <a href="https://www.linkedin.com/in/katy-boyles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Katy%20Boyles?style=social&logo=linkedin"></a>
 <br/>
 
-<h3> My Stats </h3>
+<h3>:bar_chart:  My Stats </h3>
 
 ![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb&theme=radical&hide=issues&include_all_commits=true&count_private=true)
 
