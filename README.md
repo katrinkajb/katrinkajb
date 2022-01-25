@@ -6,12 +6,13 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 
 <h3>🛠 Tech Stack</h3>
 ◍ Languages: JavaScript, HTML, CSS<br/>
+![](https://img.shields.io/badge/<language>-<javascript>-informational?style=flat&color=2bbc8a)
+
 ◍ Libraries/Frameworks: React, Node, Express<br/>
 ◍ Databases: SQL/PostgreSQL<br/>
 ◍ Testing Suites: QUnit, Jest, Supertest<br/>
 ◍ Tools/Etc: Git/GitHub, Postman, PGAdmin, Heroku, Netlify, Adobe CC, Jira, Visual Studio Code<br/>
 ◍ Dev Practices: TDD, Agile<br/>
-◍ Currently Learning: Typescript, React Native, NextJS 
 <br/>
 
 <h3>💬 Get in Touch with Me!</h3>
