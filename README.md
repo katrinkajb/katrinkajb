@@ -6,8 +6,6 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 
 <h3>🛠 Tech Stack</h3>
 ◍ Languages: JavaScript, HTML, CSS<br/>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ◍ Libraries/Frameworks: React, Node, Express<br/>
 ◍ Databases: SQL/PostgreSQL<br/>
 ◍ Testing Suites: QUnit, Jest, Supertest<br/>
