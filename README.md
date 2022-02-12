@@ -20,6 +20,6 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 
 <h3>:bar_chart:  My Stats </h3>
 
-![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb&theme=radical&hide=issues&include_all_commits=true&count_private=true)
+![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb&theme=radical&hide=issues&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinkajb&layout=compact&theme=radical)
