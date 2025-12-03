@@ -14,7 +14,6 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 <br/>
 
 <h3>💬 Get in Touch with Me!</h3>
-<a href="https://twitter.com/KBtrizay"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KBtrizay?style=social&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/katy-boyles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Katy%20Boyles?style=social&logo=linkedin"></a>
 <br/>
 
