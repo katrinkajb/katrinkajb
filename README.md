@@ -22,3 +22,5 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 ![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb&theme=radical&hide=issues&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinkajb&layout=compact&theme=radical)
+
+[![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb)](https://github.com/katrinkajb/github-readme-stats)
