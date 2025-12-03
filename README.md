@@ -14,6 +14,7 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 <br/>
 
 <h3>💬 Get in Touch with Me!</h3>
+<a href="https://twitter.com/KBtrizay"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KBtrizay?style=social&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/katy-boyles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Katy%20Boyles?style=social&logo=linkedin"></a>
 <br/>
 
@@ -24,3 +25,6 @@ I'm a Full Stack Software Engineer with an urge to learn! My background in Produ
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinkajb&layout=compact&theme=radical)
 
 [![KB's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinkajb)](https://github.com/katrinkajb/github-readme-stats)
+
+<br/>
+Thanks!
