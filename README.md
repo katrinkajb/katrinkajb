@@ -2,10 +2,6 @@
 
 I'm a Full Stack Software Engineer with an urge to learn! My background in Product Management and Customer Success means I approach writing code in a comprehensive way, always wanting to understand the users' needs. I love humor and anytime I get a chance I'll incorporate puns into my projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katrinkajb" alt="katrinkajb" /></a> </p>
-
-
-
 <h3 align="left">Connect with me on LinkedIn <a href="https://linkedin.com/in/katy-boyles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katy-boyles" height="30" width="40" /></a></h3>
 
 
